@@ -6,10 +6,9 @@ Scripts require a Python 3.6 installation. Type in 'python' and the name of scri
 An overview of scripts and data included in the repo is given below:
 
 Data import, construction and trailing financial statements
+* total_data_extract_global_and_us
+    * data import from WRDS, both us and global data. This requires a WRDS username and password (OBS approx run time 12-14 hrs).
 
-  total_data_extract_global_and_us
-    data import from WRDS, both us and global data. This requires a WRDS username and password.
-    (OBS approx run time 12-14 hrs)
     
   new_trailing_fin_statement_global5
     trailing financial statements for Global firms
