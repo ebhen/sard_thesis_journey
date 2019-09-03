@@ -51,6 +51,12 @@ error vectors (used for heatmaps) OBS! all errors can be made through the script
     * KK_errors_alldata_3_7.csv
     * KK_errors_alldata_4_7.csv
     * KK_errors_alldata_5_7.csv
+    * ind_errorsall_1_7.csv
+    * ind_errorsall_2_7.csv
+    * ind_errorsall_3_7.csv
+    * ind_errorsall_4_7.csv
+    * ind_errorsall_5_7.csv
+    
  
 * Global firm errors 
     * KK_errors_globaldata_1_7.csv
@@ -58,6 +64,11 @@ error vectors (used for heatmaps) OBS! all errors can be made through the script
     * KK_errors_globaldata_3_7.csv
     * KK_errors_globaldata_4_7.csv
     * KK_errors_globaldata_5_7.csv
+    * ind_errorsglobal_1_7.csv
+    * ind_errorsglobal_2_7.csv
+    * ind_errorsglobal_3_7.csv
+    * ind_errorsglobal_4_7.csv
+    * ind_errorsglobal_5_7.csv
     
 * EU firms
     * KK_errors_eudata_1_7.csv
@@ -65,7 +76,16 @@ error vectors (used for heatmaps) OBS! all errors can be made through the script
     * KK_errors_eudata_3_7.csv
     * KK_errors_eudata_4_7.csv
     * KK_errors_eudata_5_7.csv
- 
+    * ind_errorseu_1_7.csv
+    * ind_errorseu_2_7.csv
+    * ind_errorseu_3_7.csv
+    * ind_errorseu_4_7.csv
+    * ind_errorseu_5_7.csv
+
+* Benchmark errors
+   * 'all__errors_benchmark_R10E6.csv
+   * 'global__errors_benchmark_R10E6.csv'
+   * 'eu__errors_benchmark_R10E6.csv'
    
   
   
