@@ -32,7 +32,7 @@ Selection models, SARD and benchmark
 Error evaluation and heatmaps
 
 * new_heatmaps_evebit_subs_v1
-    * heatmaps of statistical tests, evebit only
+    * heatmaps of statistical tests, evebit only, remember to close graphs while runnings the code
     
     
 Data and error vectors
