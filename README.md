@@ -36,8 +36,7 @@ Error evaluation and heatmaps
     
     
 Data and error vectors
-
-datasets
+* datasets
     * us_firms: 'induwtd.csv'
     * global_companies:'indgwtd.csv'
     * all_firms:'indwctd.csv'
